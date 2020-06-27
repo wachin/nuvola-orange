@@ -4,7 +4,7 @@ Name[es]=nuvola-orange
 Comment=Icon Theme by David Vignoni forked by Wachín
 Comment[es]=Tema de iconos por David Vignoni bifurcado por Wachín
 
-Inherits=hicolor
+Inherits=breeze
 
 DisplayDepth=32
 Example=folder
